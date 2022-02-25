@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "RepoGitHub-App",
+    "slug": "RepoGitHub-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "RepoGitHub-App"
+}
